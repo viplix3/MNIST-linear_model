@@ -1,0 +1,2 @@
+# MNIST-linear_model
+Vanilla linear neural net working on MNIST image data
